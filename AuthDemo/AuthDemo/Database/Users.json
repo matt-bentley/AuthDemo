@@ -1,0 +1,38 @@
+[
+  {
+    "UserId": "dc6d398f-a1db-4bf1-a281-db81756e1749",
+    "UserName": "TESTMATT@TEST.COM",
+    "Email": "testmatt@test.com",
+    "PhoneNumber": null,
+    "PhoneNumberConfirmed": false,
+    "PasswordHash": "AQAAAAEAACcQAAAAENIvGtAgj0r12aqIJikyMlQxTAQ3Y9f7CZS0Q3GWlQbtWK9OEamHxMv7gymk7UXuPA==",
+    "TwoFactorEnabled": false,
+    "AuthenticationType": null,
+    "IsAuthenticated": false,
+    "Actor": null,
+    "BootstrapContext": null,
+    "Claims": [],
+    "Label": null,
+    "Name": null,
+    "NameClaimType": "http://schemas.xmlsoap.org/ws/2005/05/identity/claims/name",
+    "RoleClaimType": "http://schemas.microsoft.com/ws/2008/06/identity/claims/role"
+  },
+  {
+    "UserId": "bf378751-dac2-45e6-bf05-65ebd9de65a0",
+    "UserName": "TEST2@TEST.COM",
+    "Email": "test2@test.com",
+    "PhoneNumber": null,
+    "PhoneNumberConfirmed": false,
+    "PasswordHash": "AQAAAAEAACcQAAAAEFXEBCLR7gVtm5K58isMI+IHkzwRO+StVQfi7sd0BcpxfXDiXRTZryPxlnOrcOHRtA==",
+    "TwoFactorEnabled": false,
+    "AuthenticationType": null,
+    "IsAuthenticated": false,
+    "Actor": null,
+    "BootstrapContext": null,
+    "Claims": [],
+    "Label": null,
+    "Name": null,
+    "NameClaimType": "http://schemas.xmlsoap.org/ws/2005/05/identity/claims/name",
+    "RoleClaimType": "http://schemas.microsoft.com/ws/2008/06/identity/claims/role"
+  }
+]
